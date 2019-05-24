@@ -30,3 +30,5 @@ pip3 install keras
 Once you have these packages installed on your computer system, you should install ImageAI by running the pip command below. Installing ImageAI
 
 pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
+
++ скачать Yolo.h5 https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/
